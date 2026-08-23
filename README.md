@@ -12,16 +12,27 @@
 
 ## 🇷🇺 Илья Савин
 
-**QA-инженер / backend-разработчик**, иногда занимаюсь системным администрированием.
+**QA-инженер / backend-разработчик.**
 
 📍 Москва (иногда — Ростов-на-Дону) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: *[добавь свой @username]*
 
-Работаю с веб-продуктами на стыке трёх направлений — backend-разработка, системное администрирование и тестирование. Мне одинаково интересны и разработка, и тестирование, поэтому сейчас двигаюсь через самое понятное и прямое направление входа в IT — **тестирование**, с целью вырасти в **AQA-инженера** (тестировщика с навыками автоматизации), не теряя backend-практику.
+<img src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" width="260"/>
 
-#### 🔭 Над чем работаю сейчас
-- 🤖 Pet-проект с **LLM-моделями**: работа с промптами, **RAG** и векторными базами данных, сборка **AI-ассистентов**
-- 🧪 Ручное тестирование веб-сайтов (UI, API, кросс-браузерная проверка)
-- ⚙️ Автотесты на **pytest**, разработка чек-листов и тестовой документации
+Работаю с веб-продуктами. Основное направление — **тестирование**. Также занимаюсь backend-разработкой, а в процессе своей деятельности работал с системным администрированием.
+
+---
+
+### 🔭 Над чем я работаю сейчас
+
+- 🤖 **AI/LLM pet-проект** — работа с промптами, **RAG** и векторными базами данных, сборка **AI-ассистентов**
+- 🧪 **Ручное тестирование сайтов** — UI, кросс-браузерные проверки, работа с DevTools
+- ⚙️ **Автотесты на pytest** — разработка чек-листов, тест-кейсов и тестовой документации
+
+---
+
+### 💼 Опыт работы
+
+*(будет добавлено)*
 
 ---
 
@@ -29,59 +40,51 @@
 
 **Тестирование / QA**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="32"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="32"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="32" title="Postman"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32" title="Jira"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" title="Figma"/> &nbsp;
+<img src="https://raw.githubusercontent.com/ChromeDevTools/devtools-logo/master/logos/svg/chrome-devtools-square-responsive.svg" height="32" title="Chrome DevTools"/> &nbsp;
+<img src="https://skillicons.dev/icons?i=androidstudio,xcode" height="32" title="Android Studio / Xcode"/>
 
 ![Test IT](https://img.shields.io/badge/-Test%20IT-4B4B4B?style=flat-square)
-![TestRail](https://img.shields.io/badge/-TestRail-6DE5A5?style=flat-square&logoColor=white)
+![TestRail](https://img.shields.io/badge/-TestRail-6DE5A5?style=flat-square)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-6E4C13?style=flat-square)
 ![Bruno](https://img.shields.io/badge/-Bruno-F5A623?style=flat-square)
 ![Charles Proxy](https://img.shields.io/badge/-Charles%20Proxy-3A3A3A?style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman%20(REST%2FSOAP)-FF6C37?style=flat-square)
+![Safari Web Inspector](https://img.shields.io/badge/-Safari%20Web%20Inspector-1B87E6?style=flat-square)
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square)
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark" height="32"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker" height="32"/>
 
-`Python 3.11+` · `FastAPI` · `SQLAlchemy (Async)` · `Alembic` · `Pydantic` · `JWT / RBAC` · `Aiogram 3`
+`Python 3.11+` · `FastAPI` · `SQLAlchemy (Async)` · `Alembic` · `Pydantic` · `JWT / RBAC` · `Aiogram 3` · `HTTPX`
 
 **Базы данных**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" height="32"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" height="32"/>
 
 **DevOps / Linux**
 
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,git,github,githubactions&theme=dark" height="32"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,git,github,githubactions" height="32"/>
 
-`systemd` · `cron` · `ufw` · `SSH` · `сети (OSI/TCP-IP, NAT, маршрутизация)` · `GitHub Actions CI/CD` · `VPS-деплой`
+`systemd` · `cron` · `ufw` · `SSH` · `сети (OSI/TCP-IP, NAT, маршрутизация)` · `GitHub Actions CI/CD` · `VPS-деплой` · `Ruff`
 
 **Инструменты разработки**
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" height="32"/>
+<img src="https://skillicons.dev/icons?i=vscode,pycharm" height="32"/>
 
 ---
 
 ### 🧪 Тестовые проекты и артефакты
 
-Портфолио ручного и AQA-тестирования: тест-планы, чек-листы, тест-кейсы (Test IT), баг-репорты (Jira), API-коллекции (Postman: REST + SOAP), материалы по тест-дизайну, SQL/MongoDB и Linux/Bash.
-
-Ниже — репозитории, которые нужно создать на GitHub, и что именно в каждый из них положить:
-
-| Репозиторий | Что туда класть | Источник у тебя |
-|---|---|---|
-| **`mobile-testing`** | Тест-кейсы и чек-лист по тестированию мобильного таск-менеджера (Test IT, ID 49–76), Jira-баг-репорты (MPV1-1…MPV1-7) | `Test_IT.pdf`, `Тестирование_мобильного_приложения_Чек-лист_ПР_18.xlsx`, `Мобильно_Пр__ПР_19.pdf`, `Jira_Тестирование_Моб_прил_ПР20.pdf` |
-| **`web-testing`** | Баг-репорты по тестированию веб-магазина demoshopping.ru (корзина, сортировка, авторизация, регистрация) + скриншоты сравнения с Figma-макетом | `Jira.pdf`, `Jira_PR11_web_site.pdf` |
-| **`api-testing`** | Postman-коллекции REST (DemoShopping) и SOAP (CountryInfoService, WSDL), примеры cURL-запросов | `DemoShopping.json/.zip`, `CountryInfoService_ПР14.json/.zip`, curl-примеры из `bash2.txt` |
-| **`sql`** | Практики по SELECT и JOIN в MySQL | `Работа_с_SELECT_в_MySQL__Пр_15_.xlsx`, `JOIN_в_MySQL_Практика_16.xlsx` |
-| **`mongodb`** | Практика работы с MongoDB (NoSQL-запросы) | `Работа_с_MongoDB_Практика_17.xlsx` |
-| **`test-design`** | Эквивалентное разбиение, таблица принятия решений, типы тестирования, анализ требований, тестовые данные для фильтрации/сортировки, чек-лист и тест-кейсы | `Эквивалентное_разбиение.xlsx`, `Таблица_принятия_решении_.xlsx`, `Типы_тестирования.xlsx`, `Анализ_требовании_.xlsx`, `Тестовые_данные_для_фильтрации_и_сортировки.xlsx`, `Чек-лист_и_тест-кеи_с.xlsx` |
-| **`linux-bash`** | Bash-скрипты: работа с файлами/правами, grep/find/perl, процессы (ps/kill), сетевые команды (ping, curl к REST API) | `bash1.txt`, `bash2.txt` |
-
-*(создаёшь репозиторий → заливаешь туда нужные файлы → сюда добавляешь ссылку вида `[mobile-testing](https://github.com/<твой_username>/mobile-testing)`)*
+- 📱 [Мобильное тестирование]()
+- 🌐 [Веб-тестирование]()
+- 🔌 [API-тестирование (REST + SOAP)]()
+- 🗄️ [SQL]()
+- 🍃 [MongoDB]()
+- 🎯 [Тест-дизайн]()
+- 🐧 [Linux / Bash-скрипты]()
 
 ---
 
@@ -91,12 +94,6 @@
 REST API (FastAPI) + Telegram-бот (Aiogram 3) как единое приложение — не учебный CRUD, а полноценная многосервисная архитектура.
 
 `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis (токены + FSM)` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff`
-
-- JWT-авторизация + middleware
-- Полностью асинхронное приложение и работа с БД
-- Telegram FSM на Redis Storage
-- Unit/Integration-тесты, CI, линтинг
-- Отдельные конфиги для dev и prod (`docker-compose.dev.yml`)
 
 🔗 *[ссылка на репозиторий]*
 
@@ -121,11 +118,11 @@ REST API (FastAPI) + Telegram-бот (Aiogram 3) как единое прило�
 
 ---
 
-### 📈 Активность и обучение
+### 📈 Обучение
 
 **Stepik** — [профиль](https://stepik.org/users/588511871/profile) · 9 253 решённые задачи · 271 репутация · 9.2K знаний · макс. серия 167 дней
 
-Пройдено 24+ курса, включая: `Python-разработчик` · `"Поколение Python"` (начальный/продвинутый/для профессионалов/ООП) · `Асинхронный Python` · `SQL с нуля до PRO` · `Django, потанцуем?` · `Знакомство с Docker` · `Терминал Linux` · `Тестирование ПО` (2 курса) · `Основы Git и GitHub` · `Go — первое знакомство`
+Python · Асинхронное программирование · SQL · Тестирование ПО · Linux / Терминал · Docker · Git / GitHub · Веб-разработка (HTML/CSS) · Data Science (Pandas) · Go — первое знакомство
 
 **LeetCode** — *[ссылка на профиль]*
 
@@ -136,28 +133,39 @@ REST API (FastAPI) + Telegram-бот (Aiogram 3) как единое прило�
 
 ## 🇬🇧 Ilya Savin
 
-**QA Engineer / Backend Developer**, occasionally doing system administration.
+**QA Engineer / Backend Developer.**
 
 📍 Moscow (sometimes Rostov-on-Don) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: *[add your @username]*
 
-I work on web products at the intersection of three areas — backend development, system administration, and testing. I'm equally drawn to development and testing, so right now I'm going through the clearest entry point into IT — **testing**, aiming to grow into an **AQA engineer** (test automation), while keeping my backend skills active.
+<img src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" width="260"/>
 
-#### 🔭 Currently working on
-- 🤖 A pet project with **LLM models**: prompting, **RAG**, vector databases, building **AI assistants**
-- 🧪 Manual testing of websites (UI, API, cross-browser checks)
-- ⚙️ Writing automated tests with **pytest**, building checklists and test documentation
+I work with web products. My main focus is **testing**. I also do backend development, and along the way I've worked with system administration.
+
+---
+
+### 🔭 Currently working on
+
+- 🤖 **AI/LLM pet project** — prompting, **RAG**, vector databases, building **AI assistants**
+- 🧪 **Manual website testing** — UI, cross-browser checks, DevTools
+- ⚙️ **Automated tests with pytest** — checklists, test cases, test documentation
+
+---
+
+### 💼 Experience
+
+*(to be added)*
 
 ---
 
 ### 🧰 Stack & Tools
 
-**Testing / QA:** Postman (REST + SOAP), Jira, Figma, Chrome DevTools, Safari DevTools, Test IT, TestRail, SoapUI, Bruno, Charles Proxy, pytest/mock/testcontainers
+**Testing / QA:** Postman, Jira, Figma, Chrome DevTools, Android Studio, Xcode, Test IT, TestRail, SoapUI, Bruno, Charles Proxy, Safari Web Inspector, pytest/mock/testcontainers
 
-**Backend:** Python 3.11+, FastAPI, SQLAlchemy (Async), Alembic, Pydantic, JWT/RBAC, Aiogram 3
+**Backend:** Python 3.11+, FastAPI, SQLAlchemy (Async), Alembic, Pydantic, JWT/RBAC, Aiogram 3, HTTPX
 
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLite
 
-**DevOps / Linux:** Docker, Docker Compose, Nginx, systemd, cron, ufw, SSH, networking (OSI/TCP-IP, NAT, routing), GitHub Actions CI/CD, VPS deployment
+**DevOps / Linux:** Docker, Docker Compose, Nginx, systemd, cron, ufw, SSH, networking (OSI/TCP-IP, NAT, routing), GitHub Actions CI/CD, VPS deployment, Ruff
 
 **Tools:** VS Code, PyCharm, Git/GitHub
 
@@ -165,17 +173,13 @@ I work on web products at the intersection of three areas — backend developmen
 
 ### 🧪 Testing Projects & Artifacts
 
-Manual & AQA testing portfolio: test plans, checklists, test cases (Test IT), bug reports (Jira), API collections (Postman: REST + SOAP), test design materials, SQL/MongoDB, and Linux/Bash.
-
-| Repository | Contents |
-|---|---|
-| **`mobile-testing`** | Mobile task-manager app test cases & checklist (Test IT), Jira bug reports |
-| **`web-testing`** | Web shop (demoshopping.ru) bug reports — cart, sorting, auth, registration — with Figma comparison |
-| **`api-testing`** | Postman collections: REST (DemoShopping) and SOAP (CountryInfoService, WSDL), cURL examples |
-| **`sql`** | MySQL SELECT & JOIN practice |
-| **`mongodb`** | MongoDB (NoSQL) practice queries |
-| **`test-design`** | Equivalence partitioning, decision tables, testing types, requirements analysis, test data, checklists |
-| **`linux-bash`** | Bash scripting: files/permissions, grep/find/perl, processes, networking (curl to a REST API) |
+- 📱 [Mobile Testing]()
+- 🌐 [Web Testing]()
+- 🔌 [API Testing (REST + SOAP)]()
+- 🗄️ [SQL]()
+- 🍃 [MongoDB]()
+- 🎯 [Test Design]()
+- 🐧 [Linux / Bash]()
 
 ---
 
@@ -209,9 +213,11 @@ A REST API (FastAPI) and a Telegram bot (Aiogram 3) working together as one appl
 
 ---
 
-### 📈 Learning & Activity
+### 📈 Learning
 
 **Stepik** — [profile](https://stepik.org/users/588511871/profile) · 9,253 problems solved · 271 reputation · 9.2K knowledge points · 167-day max streak
+
+Python · Async programming · SQL · Software Testing · Linux / Terminal · Docker · Git / GitHub · Web dev (HTML/CSS) · Data Science (Pandas) · Go — first steps
 
 **LeetCode** — *[profile link]*
 
