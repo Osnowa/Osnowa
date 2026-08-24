@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F5A623&center=true&vCenter=true&width=650&lines=QA+Engineer+%2F+Backend+Developer;Python+%7C+FastAPI+%7C+Pytest;Linux+%7C+SysAdmin;%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0+%2F+%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F5A623&center=true&vCenter=true&width=480&lines=QA+Engineer+%2F+Backend+Developer;Python+%7C+FastAPI+%7C+Pytest;Linux+%7C+SysAdmin" alt="Typing SVG" />
 
 ### <a href="#ru">🇷🇺 Русский</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#en">🇬🇧 English</a>
 
@@ -16,7 +16,7 @@
 
 📍 Москва (Ростов-на-Дону) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: *[добавь свой @username]*
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFlZGpxcHZhd3h0MGpsM3d4ejUxbXNkdmZ4MmhwbXBmcXFnbDZrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qkbm4jGMam7PfdWzHM/giphy.gif" width="280"/>
+<img src="./assets/debug-flowchart.png" width="320"/>
 
 Работаю в сфере тестирования (backend), иногда занимался системным администрированием в ходе своей работы. Основное направление — **тестирование**.
 
@@ -24,15 +24,16 @@
 
 ---
 
-### 🔭 Над чем я работаю сейчас
+### 🔭 Над чем я работаю
 
-- 🤖 **AI/LLM pet-проект** — работа с промптами, **RAG** и векторными базами данных, сборка **AI-ассистентов**
+- 🤖 **AI/LLM pet-проект** — работа с промптами, **RAG**, векторные базы данных (Chroma, Qdrant), локальные модели (Ollama, Mistral AI), сборка AI-ассистентов
 - 🧪 **Ручное тестирование сайтов** — UI, кросс-браузерные проверки, работа с DevTools
-- ⚙️ **Автотесты на pytest** — разработка чек-листов, тест-кейсов и тестовой документации
+- ⚙️ **Автоматизация тестирования** — автотесты на pytest, разработка чек-листов и тестовой документации
+- 🔁 **Backend pet-проекты** — прокачиваю стек FastAPI + PostgreSQL/MongoDB + Docker + CI/CD: от простого CRUD до JWT/RBAC и кэширования
 
 ---
 
-### 💼 Опыт работы
+### ⚡ Коротко обо мне
 
 *(будет добавлено)*
 
@@ -100,7 +101,7 @@
 
 ### 🚀 Backend-проекты
 
-#### 📋 Task Manager API + Telegram Bot — флагманский pet-проект
+#### 📋 Task Manager API + Telegram Bot — пока что самый насыщенный проект
 REST API (FastAPI) + Telegram-бот (Aiogram 3) как единое приложение — не учебный CRUD, а полноценная многосервисная архитектура.
 
 `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis (токены + FSM)` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff`
@@ -128,13 +129,19 @@ REST API (FastAPI) + Telegram-бот (Aiogram 3) как единое прило�
 
 ---
 
-### 📈 Обучение
+### 📈 Обучение и практика
 
 **Stepik** — [профиль](https://stepik.org/users/588511871/profile) · 9 253 решённые задачи · 271 репутация · 9.2K знаний · макс. серия 167 дней
 
 Python · Асинхронное программирование · SQL · Тестирование ПО · Linux / Терминал · Docker · Git / GitHub · Веб-разработка (HTML/CSS) · Data Science (Pandas) · Go — первое знакомство
 
 **LeetCode** — *[ссылка на профиль]*
+
+---
+
+### 💼 Опыт работы
+
+*(будет добавлено)*
 
 ---
 <br>
@@ -147,7 +154,7 @@ Python · Асинхронное программирование · SQL · Те
 
 📍 Moscow (Rostov-on-Don) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: *[add your @username]*
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFlZGpxcHZhd3h0MGpsM3d4ejUxbXNkdmZ4MmhwbXBmcXFnbDZrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qkbm4jGMam7PfdWzHM/giphy.gif" width="280"/>
+<img src="./assets/debug-flowchart.png" width="320"/>
 
 I work in testing (backend), and along the way I've also done system administration. My main focus is **testing**.
 
@@ -157,13 +164,14 @@ I'm a QA engineer aiming to grow into an **AQA engineer** (full-stack tester): I
 
 ### 🔭 Currently working on
 
-- 🤖 **AI/LLM pet project** — prompting, **RAG**, vector databases, building **AI assistants**
+- 🤖 **AI/LLM pet project** — prompting, **RAG**, vector databases (Chroma, Qdrant), local models (Ollama, Mistral AI), building AI assistants
 - 🧪 **Manual website testing** — UI, cross-browser checks, DevTools
-- ⚙️ **Automated tests with pytest** — checklists, test cases, test documentation
+- ⚙️ **Test automation** — automated tests with pytest, checklists, test documentation
+- 🔁 **Backend pet projects** — building up the FastAPI + PostgreSQL/MongoDB + Docker + CI/CD stack: from basic CRUD to JWT/RBAC and caching
 
 ---
 
-### 💼 Experience
+### ⚡ A few quick facts
 
 *(to be added)*
 
@@ -198,7 +206,7 @@ I'm a QA engineer aiming to grow into an **AQA engineer** (full-stack tester): I
 
 ### 🚀 Backend Projects
 
-#### 📋 Task Manager API + Telegram Bot — flagship pet project
+#### 📋 Task Manager API + Telegram Bot — currently my most extensive project
 A REST API (FastAPI) and a Telegram bot (Aiogram 3) working together as one application — not a tutorial CRUD, but a real multi-service architecture.
 
 `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis (tokens + FSM)` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff`
@@ -226,12 +234,18 @@ A REST API (FastAPI) and a Telegram bot (Aiogram 3) working together as one appl
 
 ---
 
-### 📈 Learning
+### 📈 Learning & Practice
 
 **Stepik** — [profile](https://stepik.org/users/588511871/profile) · 9,253 problems solved · 271 reputation · 9.2K knowledge points · 167-day max streak
 
 Python · Async programming · SQL · Software Testing · Linux / Terminal · Docker · Git / GitHub · Web dev (HTML/CSS) · Data Science (Pandas) · Go — first steps
 
 **LeetCode** — *[profile link]*
+
+---
+
+### 💼 Experience
+
+*(to be added)*
 
 </div>
