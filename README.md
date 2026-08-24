@@ -16,8 +16,6 @@
 
 📍 Москва (Ростов-на-Дону) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: *[добавь свой @username]*
 
-<img src="./assets/debug-flowchart.png" width="320"/>
-
 Работаю в сфере тестирования (backend), иногда занимался системным администрированием в ходе своей работы. Основное направление — **тестирование**.
 
 Я QA-инженер и стремлюсь стать **AQA-инженером** (full-stack тестировщиком): тестирую вручную и параллельно развиваю pet-проекты по автоматизированному тестированию на pytest.
@@ -25,6 +23,8 @@
 ---
 
 ### 🔭 Над чем я работаю
+
+<img src="./assets/debug-flowchart.png" width="320"/>
 
 - 🤖 **AI/LLM pet-проект** — работа с промптами, **RAG**, векторные базы данных (Chroma, Qdrant), локальные модели (Ollama, Mistral AI), сборка AI-ассистентов
 - 🧪 **Ручное тестирование сайтов** — UI, кросс-браузерные проверки, работа с DevTools
@@ -154,8 +154,6 @@ Python · Асинхронное программирование · SQL · Те
 
 📍 Moscow (Rostov-on-Don) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: *[add your @username]*
 
-<img src="./assets/debug-flowchart.png" width="320"/>
-
 I work in testing (backend), and along the way I've also done system administration. My main focus is **testing**.
 
 I'm a QA engineer aiming to grow into an **AQA engineer** (full-stack tester): I test manually and, in parallel, build pet projects around test automation with pytest.
@@ -163,6 +161,8 @@ I'm a QA engineer aiming to grow into an **AQA engineer** (full-stack tester): I
 ---
 
 ### 🔭 Currently working on
+
+<img src="./assets/debug-flowchart.png" width="320"/>
 
 - 🤖 **AI/LLM pet project** — prompting, **RAG**, vector databases (Chroma, Qdrant), local models (Ollama, Mistral AI), building AI assistants
 - 🧪 **Manual website testing** — UI, cross-browser checks, DevTools
