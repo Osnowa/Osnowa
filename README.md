@@ -24,12 +24,14 @@
 
 ### 🔭 Над чем я работаю
 
-<img src="./assets/debug-flowchart.png" width="320"/>
+<img src="./assets/debug-flowchart.png" width="260" align="right"/>
 
 - 🤖 **AI/LLM pet-проект** — работа с промптами, **RAG**, векторные базы данных (Chroma, Qdrant), локальные модели (Ollama, Mistral AI), сборка AI-ассистентов
 - 🧪 **Ручное тестирование сайтов** — UI, кросс-браузерные проверки, работа с DevTools
 - ⚙️ **Автоматизация тестирования** — автотесты на pytest, разработка чек-листов и тестовой документации
 - 🔁 **Backend pet-проекты** — прокачиваю стек FastAPI + PostgreSQL/MongoDB + Docker + CI/CD: от простого CRUD до JWT/RBAC и кэширования
+
+<br clear="right"/>
 
 ---
 
@@ -162,12 +164,14 @@ I'm a QA engineer aiming to grow into an **AQA engineer** (full-stack tester): I
 
 ### 🔭 Currently working on
 
-<img src="./assets/debug-flowchart.png" width="320"/>
+<img src="./assets/debug-flowchart.png" width="260" align="right"/>
 
 - 🤖 **AI/LLM pet project** — prompting, **RAG**, vector databases (Chroma, Qdrant), local models (Ollama, Mistral AI), building AI assistants
 - 🧪 **Manual website testing** — UI, cross-browser checks, DevTools
 - ⚙️ **Test automation** — automated tests with pytest, checklists, test documentation
 - 🔁 **Backend pet projects** — building up the FastAPI + PostgreSQL/MongoDB + Docker + CI/CD stack: from basic CRUD to JWT/RBAC and caching
+
+<br clear="right"/>
 
 ---
 
