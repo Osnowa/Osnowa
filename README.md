@@ -12,13 +12,15 @@
 
 ## 🇷🇺 Илья Савин
 
-**QA-инженер / backend-разработчик.**
+**QA-инженер / backend-разработчик**
 
-📍 Москва (иногда — Ростов-на-Дону) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: *[добавь свой @username]*
+📍 Москва (Ростов-на-Дону) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: *[добавь свой @username]*
 
-<img src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" width="260"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFlZGpxcHZhd3h0MGpsM3d4ejUxbXNkdmZ4MmhwbXBmcXFnbDZrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qkbm4jGMam7PfdWzHM/giphy.gif" width="280"/>
 
-Работаю с веб-продуктами. Основное направление — **тестирование**. Также занимаюсь backend-разработкой, а в процессе своей деятельности работал с системным администрированием.
+Работаю в сфере тестирования (backend), иногда занимался системным администрированием в ходе своей работы. Основное направление — **тестирование**.
+
+Я QA-инженер и стремлюсь стать **AQA-инженером** (full-stack тестировщиком): тестирую вручную и параллельно развиваю pet-проекты по автоматизированному тестированию на pytest.
 
 ---
 
@@ -60,6 +62,15 @@
 
 `Python 3.11+` · `FastAPI` · `SQLAlchemy (Async)` · `Alembic` · `Pydantic` · `JWT / RBAC` · `Aiogram 3` · `HTTPX`
 
+**AI / LLM**
+
+![Chroma](https://img.shields.io/badge/-Chroma-FF6600?style=flat-square)
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square)
+![Mistral AI](https://img.shields.io/badge/-Mistral%20AI-FF7000?style=flat-square)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
+
+`RAG` · `Векторные базы данных` · `Prompt engineering`
+
 **Базы данных**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" height="32"/>
@@ -78,13 +89,12 @@
 
 ### 🧪 Тестовые проекты и артефакты
 
-- 📱 [Мобильное тестирование]()
-- 🌐 [Веб-тестирование]()
-- 🔌 [API-тестирование (REST + SOAP)]()
-- 🗄️ [SQL]()
-- 🍃 [MongoDB]()
-- 🎯 [Тест-дизайн]()
-- 🐧 [Linux / Bash-скрипты]()
+- [Мобильное тестирование]() – тест-кейсы, чек-лист и Jira-баг-репорты по мобильному таск-менеджеру
+- [Веб-тестирование]() – тестирование интернет-магазина demoshopping.ru: баг-репорты, чек-лист, анализ требований, тест-дизайн (эквивалентное разбиение, таблица принятия решений), тестовые данные
+- [API-тестирование]() – Postman-коллекции REST и SOAP, cURL-примеры
+- [SQL]() – практика SELECT и JOIN в MySQL
+- [MongoDB]() – практика NoSQL-запросов
+- [Linux / Bash]() – скрипты: файлы и права, процессы, сеть
 
 ---
 
@@ -133,13 +143,15 @@ Python · Асинхронное программирование · SQL · Те
 
 ## 🇬🇧 Ilya Savin
 
-**QA Engineer / Backend Developer.**
+**QA Engineer / Backend Developer**
 
-📍 Moscow (sometimes Rostov-on-Don) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: *[add your @username]*
+📍 Moscow (Rostov-on-Don) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: *[add your @username]*
 
-<img src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" width="260"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFlZGpxcHZhd3h0MGpsM3d4ejUxbXNkdmZ4MmhwbXBmcXFnbDZrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qkbm4jGMam7PfdWzHM/giphy.gif" width="280"/>
 
-I work with web products. My main focus is **testing**. I also do backend development, and along the way I've worked with system administration.
+I work in testing (backend), and along the way I've also done system administration. My main focus is **testing**.
+
+I'm a QA engineer aiming to grow into an **AQA engineer** (full-stack tester): I test manually and, in parallel, build pet projects around test automation with pytest.
 
 ---
 
@@ -163,6 +175,8 @@ I work with web products. My main focus is **testing**. I also do backend develo
 
 **Backend:** Python 3.11+, FastAPI, SQLAlchemy (Async), Alembic, Pydantic, JWT/RBAC, Aiogram 3, HTTPX
 
+**AI / LLM:** Chroma, Qdrant, Mistral AI, Ollama — RAG, vector databases, prompt engineering
+
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLite
 
 **DevOps / Linux:** Docker, Docker Compose, Nginx, systemd, cron, ufw, SSH, networking (OSI/TCP-IP, NAT, routing), GitHub Actions CI/CD, VPS deployment, Ruff
@@ -173,13 +187,12 @@ I work with web products. My main focus is **testing**. I also do backend develo
 
 ### 🧪 Testing Projects & Artifacts
 
-- 📱 [Mobile Testing]()
-- 🌐 [Web Testing]()
-- 🔌 [API Testing (REST + SOAP)]()
-- 🗄️ [SQL]()
-- 🍃 [MongoDB]()
-- 🎯 [Test Design]()
-- 🐧 [Linux / Bash]()
+- [Mobile Testing]() – test cases, checklist, and Jira bug reports for the mobile task-manager app
+- [Web Testing]() – demoshopping.ru testing: bug reports, checklist, requirements analysis, test design, test data
+- [API Testing]() – Postman collections REST + SOAP, cURL examples
+- [SQL]() – MySQL SELECT & JOIN practice
+- [MongoDB]() – NoSQL query practice
+- [Linux / Bash]() – scripts: files/permissions, processes, networking
 
 ---
 
