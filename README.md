@@ -16,7 +16,7 @@
 
 📍 Москва (Ростов-на-Дону) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: *@Osnowwa*
 
-Развиваюсь в IT, в сфере тестирования (/backend), одно время занимался системным администрированием в ходе своей работы. Основное направление — **тестирование**.
+Развиваюсь в IT, в сфере тестирования (/backend), одно время занимался системным администрированием. Основное направление — **тестирование**.
 
 Я QA-инженер и стремлюсь стать **AQA-инженером** (full-stack тестировщиком): тестирую вручную и параллельно развиваю pet-проекты по автоматизированному тестированию на pytest. Плюс пишу проекты на FastAPI, Telegram-bot, внедряю LLM и AI агентов.
 
@@ -29,7 +29,7 @@
 - 🤖 **AI/LLM pet-проект** — работа с промптами, **RAG**, векторные базы данных (Chroma, Qdrant), локальные модели (Ollama, Mistral AI), сборка AI-ассистентов
 - 🧪 **Ручное тестирование сайтов** — UI, кросс-браузерные проверки, работа с DevTools
 - ⚙️ **Автоматизация тестирования** — автотесты на pytest, разработка чек-листов и тестовой документации
-- 🔁 **Backend pet-проекты** — прокачиваю стек FastAPI + PostgreSQL/MongoDB + Docker + CI/CD: от простого CRUD до JWT/RBAC и кэширования
+- 🔁 **Backend pet-проекты** — прокачиваю стек FastAPI + PostgreSQL/MongoDB + Docker + CI/CD: от простого CRUD до JWT/RBAC и кэширования. + внедряю LLM и AI.
 
 <br clear="right"/>
 
@@ -86,12 +86,12 @@
 
 ### 🧪 Тестовые проекты и артефакты
 
-- [Мобильное тестирование]() – тест-кейсы, чек-лист и Jira-баг-репорты по мобильному таск-менеджеру
-- [Веб-тестирование]() – тестирование интернет-магазина demoshopping.ru: баг-репорты, чек-лист, анализ требований, тест-дизайн (эквивалентное разбиение, таблица принятия решений), тестовые данные
-- [API-тестирование]() – Postman-коллекции REST и SOAP, cURL-примеры
-- [SQL]() – практика SELECT и JOIN в MySQL
-- [MongoDB]() – практика NoSQL-запросов
-- [Linux / Bash]() – скрипты: файлы и права, процессы, сеть
+- [Мобильное тестирование](https://github.com/Osnowa/Mobile_Testing.git) – тест-кейсы, чек-лист и Jira-баг-репорты по мобильному таск-менеджеру
+- [Веб-тестирование](https://github.com/Osnowa/Web_testing.git) – тестирование интернет-магазина demoshopping.ru: баг-репорты, чек-лист, анализ требований, тест-дизайн (эквивалентное разбиение, таблица принятия решений), тестовые данные
+- [API-тестирование](https://github.com/Osnowa/API_Testing.git) – Postman-коллекции REST и SOAP, cURL-примеры
+- [SQL](https://github.com/Osnowa/SQL.git) – практика SELECT и JOIN в MySQL
+- [MongoDB](https://github.com/Osnowa/Mongo_DB.git) – практика NoSQL-запросов
+- [Linux / Bash](https://github.com/Osnowa/Linux-Bash.git) – скрипты: файлы и права, процессы, сеть
 
 ---
 
@@ -102,7 +102,7 @@ REST API (FastAPI) + Telegram-бот (Aiogram 3) как единое прило�
 
 `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis (токены + FSM)` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff`
 
-🔗 *[ссылка на репозиторий]*
+🔗 *https://github.com/Osnowa/FastApi_TB.git*
 
 #### 🔁 DNF — серия учебных проектов (прогресс от версии к версии)
 
@@ -132,7 +132,7 @@ REST API (FastAPI) + Telegram-бот (Aiogram 3) как единое прило�
 Python · Асинхронное программирование · SQL · Тестирование ПО · Linux / Терминал · Docker · Git / GitHub · Веб-разработка (HTML/CSS) · Data Science (Pandas) · Go — первое знакомство
 
 **LeetCode** — *[ссылка на профиль](https://leetcode.com/u/osnowa/)*
-<img src="./assets/leetcode_profil.png" width="260" align="down"/>
+<img src="./assets/leetcode_profil.png"/>
 
 ---
 
@@ -240,6 +240,7 @@ A REST API (FastAPI) and a Telegram bot (Aiogram 3) working together as one appl
 Python · Async programming · SQL · Software Testing · Linux / Terminal · Docker · Git / GitHub · Web dev (HTML/CSS) · Data Science (Pandas) · Go — first steps
 
 **LeetCode** — *[profile link]*
+<img src="./assets/leetcode_profil.png"/>
 
 ---
 
