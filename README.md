@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F5A623&center=true&vCenter=true&width=480&lines=QA+Engineer+%2F+Backend+Developer;Python+%7C+FastAPI+%7C+Pytest;Linux+%7C+SysAdmin" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F5A623&center=true&vCenter=true&width=420&lines=QA+Engineer+%2F+Backend+Developer;Python+%7C+FastAPI+%7C+Pytest;Linux+%7C+SysAdmin" alt="Typing SVG" />
 
-### <a href="#ru">🇷🇺 Русский</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#en">🇬🇧 English</a>
+<p align="center">
+<a href="#ru"><img src="https://img.shields.io/badge/🇷🇺-Русский-2E2E2E?style=flat-square" alt="RU"/></a>
+&nbsp;
+<a href="#en"><img src="https://img.shields.io/badge/🇬🇧-English-2E2E2E?style=flat-square" alt="EN"/></a>
+</p>
 
 </div>
-
----
 
 <a name="ru"></a>
 
@@ -30,6 +32,7 @@
 - 🧪 **Ручное тестирование сайтов** — UI, кросс-браузерные проверки, работа с DevTools
 - ⚙️ **Автоматизация тестирования** — автотесты на pytest, разработка чек-листов и тестовой документации
 - 🔁 **Backend pet-проекты** — прокачиваю стек FastAPI + PostgreSQL/MongoDB + Docker + CI/CD: от простого CRUD до JWT/RBAC и кэширования. + внедряю LLM и AI.
+- 🐧 **Практика Linux-администрирования** — сеть и диагностика (`ping`, `curl`, `netstat`), права доступа, процессы, bash-скрипты
 
 <br clear="right"/>
 
@@ -127,11 +130,11 @@ REST API (FastAPI) + Telegram-бот (Aiogram 3) как единое прило�
 
 ### 📈 Обучение и практика
 
-**Stepik** — [профиль](https://stepik.org/users/588511871/profile) · 9 253 решённые задачи · 271 репутация · 9.2K знаний 
+**Stepik** — [профиль](https://stepik.org/users/588511871/profile) · 9 253 решённые задачи · 271 репутация · 9.2K знаний
 
 Python · Асинхронное программирование · SQL · Тестирование ПО · Linux / Терминал · Docker · Git / GitHub · Веб-разработка (HTML/CSS) · Data Science (Pandas) · Go — первое знакомство
 
-**LeetCode** — *[ссылка на профиль](https://leetcode.com/u/osnowa/)*
+**LeetCode** — *[профиль](https://leetcode.com/u/osnowa/)*
 <img src="./assets/leetcode_profil.png"/>
 
 ---
@@ -149,11 +152,11 @@ Python · Асинхронное программирование · SQL · Те
 
 **QA Engineer / Backend Developer**
 
-📍 Moscow (Rostov-on-Don) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: *[add your @username]*
+📍 Moscow (Rostov-on-Don) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: *@Osnowwa*
 
-I work in testing (backend), and along the way I've also done system administration. My main focus is **testing**.
+Growing in IT, in the field of testing (/backend), and at one point I also did system administration. My main focus is **testing**.
 
-I'm a QA engineer aiming to grow into an **AQA engineer** (full-stack tester): I test manually and, in parallel, build pet projects around test automation with pytest.
+I'm a QA engineer aiming to grow into an **AQA engineer** (full-stack tester): I test manually and, in parallel, build pet projects around test automation with pytest. I also build projects with FastAPI, Telegram bots, and work on integrating LLMs and AI agents.
 
 ---
 
@@ -164,15 +167,10 @@ I'm a QA engineer aiming to grow into an **AQA engineer** (full-stack tester): I
 - 🤖 **AI/LLM pet project** — prompting, **RAG**, vector databases (Chroma, Qdrant), local models (Ollama, Mistral AI), building AI assistants
 - 🧪 **Manual website testing** — UI, cross-browser checks, DevTools
 - ⚙️ **Test automation** — automated tests with pytest, checklists, test documentation
-- 🔁 **Backend pet projects** — building up the FastAPI + PostgreSQL/MongoDB + Docker + CI/CD stack: from basic CRUD to JWT/RBAC and caching
+- 🔁 **Backend pet projects** — building up the FastAPI + PostgreSQL/MongoDB + Docker + CI/CD stack: from basic CRUD to JWT/RBAC and caching, plus integrating LLMs and AI
+- 🐧 **Linux administration practice** — networking and diagnostics (`ping`, `curl`, `netstat`), permissions, processes, bash scripting
 
 <br clear="right"/>
-
----
-
-### ⚡ A few quick facts
-
-*(to be added)*
 
 ---
 
@@ -194,12 +192,12 @@ I'm a QA engineer aiming to grow into an **AQA engineer** (full-stack tester): I
 
 ### 🧪 Testing Projects & Artifacts
 
-- [Mobile Testing]() – test cases, checklist, and Jira bug reports for the mobile task-manager app
-- [Web Testing]() – demoshopping.ru testing: bug reports, checklist, requirements analysis, test design, test data
-- [API Testing]() – Postman collections REST + SOAP, cURL examples
-- [SQL]() – MySQL SELECT & JOIN practice
-- [MongoDB]() – NoSQL query practice
-- [Linux / Bash]() – scripts: files/permissions, processes, networking
+- [Mobile Testing](https://github.com/Osnowa/Mobile_Testing.git) – test cases, checklist, and Jira bug reports for the mobile task-manager app
+- [Web Testing](https://github.com/Osnowa/Web_testing.git) – demoshopping.ru testing: bug reports, checklist, requirements analysis, test design, test data
+- [API Testing](https://github.com/Osnowa/API_Testing.git) – Postman collections REST + SOAP, cURL examples
+- [SQL](https://github.com/Osnowa/SQL.git) – MySQL SELECT & JOIN practice
+- [MongoDB](https://github.com/Osnowa/Mongo_DB.git) – NoSQL query practice
+- [Linux / Bash](https://github.com/Osnowa/Linux-Bash.git) – scripts: files/permissions, processes, networking
 
 ---
 
@@ -210,7 +208,7 @@ A REST API (FastAPI) and a Telegram bot (Aiogram 3) working together as one appl
 
 `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis (tokens + FSM)` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff`
 
-🔗 *[repository link]*
+🔗 *https://github.com/Osnowa/FastApi_TB.git*
 
 #### 🔁 DNF series — iterative learning project
 
@@ -235,11 +233,11 @@ A REST API (FastAPI) and a Telegram bot (Aiogram 3) working together as one appl
 
 ### 📈 Learning & Practice
 
-**Stepik** — [profile](https://stepik.org/users/588511871/profile) · 9,253 problems solved · 271 reputation · 9.2K knowledge points · 167-day max streak
+**Stepik** — [profile](https://stepik.org/users/588511871/profile) · 9,253 problems solved · 271 reputation · 9.2K knowledge points
 
 Python · Async programming · SQL · Software Testing · Linux / Terminal · Docker · Git / GitHub · Web dev (HTML/CSS) · Data Science (Pandas) · Go — first steps
 
-**LeetCode** — *[profile link]*
+**LeetCode** — *[profile](https://leetcode.com/u/osnowa/)*
 <img src="./assets/leetcode_profil.png"/>
 
 ---
