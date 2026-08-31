@@ -60,7 +60,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,docker" height="32"/>
 
-`Python 3.11+` · `FastAPI` · `SQLAlchemy (Async)` · `Alembic` · `Pydantic` · `JWT / RBAC` · `Aiogram 3` · `HTTPX`
+`Python 3.11+` · `ООП` · `FastAPI` · `SQLAlchemy (Async)` · `Alembic` · `Pydantic` · `JWT / RBAC` · `Aiogram 3` · `HTTPX` · `NumPy` · `Pandas`
 
 **AI / LLM**
 
@@ -100,25 +100,12 @@
 
 ### 🚀 Backend-проекты
 
-#### 📋 Task Manager API + Telegram Bot — пока что самый насыщенный проект
+#### 🌟 Основные проекты
 
-REST API (FastAPI) + Telegram-бот (Aiogram 3) как единое приложение — не учебный CRUD, а полноценная многосервисная архитектура.
-
-`FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis (токены + FSM)` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff`
-
-🔗 *https://github.com/Osnowa/FastApi_TB.git*
-
-#### 🧠 LLM_Notes — эксперименты с LLM и векторным поиском
-
-Пет-проект для знакомства с LLM «изнутри»: работа с эмбеддингами и семантическим поиском поверх асинхронной векторной БД.
-
-`Python (async)` `ChromaDB (async-клиент)` `Эмбеддинги` `RAG`
-
-- Асинхронное подключение к Chroma, создание и наполнение коллекций
-- Семантический поиск по векторам вместо поиска по ключевым словам
-- Базовый RAG-пайплайн: поиск контекста → добавление в промпт → ответ модели
-
-🔗 *https://github.com/Osnowa/LLM_Notes.git*
+| Проект                                                                      | Описание                                                                                                                                                          | Стек                                                                                                   |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [Task Manager API + Telegram Bot](https://github.com/Osnowa/FastApi_TB.git) | "Задачиник": REST API (FastAPI) + Telegram-бот (Aiogram 3) (телеграм использует ручки FastApi): JWT-авторизация, Redis (токены + FSM), unit/integration-тесты, CI | `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff` |
+| [LLM_Notes](https://github.com/Osnowa/LLM_Notes.git)                        | Работа с промптингом: два LLM-провайдера (локальный + облачный) через `ABC`, векторный поиск по смыслу в Chroma                                                   | `Python (async)` `ChromaDB` `Ollama` `Mistral AI` `ABC` `RAG` `Docker`                                 |
 
 #### 🔁 DNF — серия учебных проектов (прогресс от версии к версии)
 
@@ -192,7 +179,7 @@ I'm a QA engineer aiming to grow into an **AQA engineer** (full-stack tester): I
 
 **Testing / QA:** Postman, Jira, Figma, Chrome DevTools, Android Studio, Xcode, Test IT, TestRail, SoapUI, Bruno, Charles Proxy, Safari Web Inspector, pytest/mock/testcontainers
 
-**Backend:** Python 3.11+, FastAPI, SQLAlchemy (Async), Alembic, Pydantic, JWT/RBAC, Aiogram 3, HTTPX
+**Backend:** Python 3.11+, OOP, FastAPI, SQLAlchemy (Async), Alembic, Pydantic, JWT/RBAC, Aiogram 3, HTTPX, NumPy, Pandas
 
 **AI / LLM:** Chroma, Qdrant, Mistral AI, Ollama — RAG, vector databases, prompt engineering
 
@@ -217,25 +204,12 @@ I'm a QA engineer aiming to grow into an **AQA engineer** (full-stack tester): I
 
 ### 🚀 Backend Projects
 
-#### 📋 Task Manager API + Telegram Bot — currently my most extensive project
+#### 🌟 Main Projects
 
-A REST API (FastAPI) and a Telegram bot (Aiogram 3) working together as one application — not a tutorial CRUD, but a real multi-service architecture.
-
-`FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis (tokens + FSM)` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff`
-
-🔗 *https://github.com/Osnowa/FastApi_TB.git*
-
-#### 🧠 LLM_Notes — LLM & vector search experiments
-
-A pet project to get hands-on with LLMs "from the inside": embeddings and semantic search on top of an async vector database.
-
-`Python (async)` `ChromaDB (async client)` `Embeddings` `RAG`
-
-- Async connection to Chroma, creating and populating collections
-- Semantic (vector) search instead of keyword search
-- Basic RAG pipeline: retrieve context → augment the prompt → generate a response
-
-🔗 *https://github.com/Osnowa/LLM_Notes.git*
+| Project                                                                     | Description                                                                                                                                                      | Stack                                                                                                  |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [Task Manager API + Telegram Bot](https://github.com/Osnowa/FastApi_TB.git) | Currently my most extensive project — a REST API (FastAPI) and a Telegram bot (Aiogram 3) in one app: JWT auth, Redis (tokens + FSM), unit/integration tests, CI | `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff` |
+| [LLM_Notes](https://github.com/Osnowa/LLM_Notes.git)                        | Prompting experiments: two LLM providers (local + cloud) behind `ABC`, vector (semantic) search in Chroma                                                        | `Python (async)` `ChromaDB` `Ollama` `Mistral AI` `ABC` `RAG` `Docker`                                 |
 
 #### 🔁 DNF series — iterative learning project
 
