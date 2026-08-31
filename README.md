@@ -16,7 +16,7 @@
 
 **QA-инженер / backend-разработчик**
 
-📍 Москва (Ростов-на-Дону) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: *@Osnowwa*
+📍 Москва (Ростов-на-Дону) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: _@Osnowwa_
 
 Развиваюсь в IT, в сфере тестирования (/backend), одно время занимался системным администрированием. Основное направление — **тестирование**.
 
@@ -101,30 +101,43 @@
 ### 🚀 Backend-проекты
 
 #### 📋 Task Manager API + Telegram Bot — пока что самый насыщенный проект
+
 REST API (FastAPI) + Telegram-бот (Aiogram 3) как единое приложение — не учебный CRUD, а полноценная многосервисная архитектура.
 
 `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis (токены + FSM)` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff`
 
 🔗 *https://github.com/Osnowa/FastApi_TB.git*
 
+#### 🧠 LLM_Notes — эксперименты с LLM и векторным поиском
+
+Пет-проект для знакомства с LLM «изнутри»: работа с эмбеддингами и семантическим поиском поверх асинхронной векторной БД.
+
+`Python (async)` `ChromaDB (async-клиент)` `Эмбеддинги` `RAG`
+
+- Асинхронное подключение к Chroma, создание и наполнение коллекций
+- Семантический поиск по векторам вместо поиска по ключевым словам
+- Базовый RAG-пайплайн: поиск контекста → добавление в промпт → ответ модели
+
+🔗 *https://github.com/Osnowa/LLM_Notes.git*
+
 #### 🔁 DNF — серия учебных проектов (прогресс от версии к версии)
 
-| Версия | Что добавлено | Стек |
-|---|---|---|
-| [Docker_Nginx_FastAPI](https://github.com/Osnowa/Docker_Ngnix_FastAPI.git) | Базовый FastAPI + SQLite + Docker + Nginx (reverse proxy) | FastAPI, aiosqlite, Docker |
-| [Docker_Nginx_FastAPI_V2](https://github.com/Osnowa/Docker_Ngnix_FastAPI_V2.git) | + ORM, скрипт наполнения БД | + SQLAlchemy |
-| [DNF_V3](https://github.com/Osnowa/DNF_V3.git) | CRUD, роутеры/схемы/репозитории, интеграционные тесты | + PostgreSQL, Alembic, pytest/httpx |
-| [DNF_V4](https://github.com/Osnowa/DNF_V4.git) | Регистрация/логин, JWT, роли (RBAC), покрытие тестами 93% | + JWT auth |
-| [DNF_V5](https://github.com/Osnowa/DNF_V5.git) | Переход на MongoDB, полный CI/CD (GitHub Actions → GHCR → деплой на VPS по SSH) | + MongoDB, Beanie, Testcontainers |
-| [DNF_V6](https://github.com/Osnowa/DNF_V6.git) | Redis-кэширование (Cache-Aside, TTL, инвалидация) | + Redis |
+| Версия                                                                           | Что добавлено                                                                   | Стек                                |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------- |
+| [Docker_Nginx_FastAPI](https://github.com/Osnowa/Docker_Ngnix_FastAPI.git)       | Базовый FastAPI + SQLite + Docker + Nginx (reverse proxy)                       | FastAPI, aiosqlite, Docker          |
+| [Docker_Nginx_FastAPI_V2](https://github.com/Osnowa/Docker_Ngnix_FastAPI_V2.git) | + ORM, скрипт наполнения БД                                                     | + SQLAlchemy                        |
+| [DNF_V3](https://github.com/Osnowa/DNF_V3.git)                                   | CRUD, роутеры/схемы/репозитории, интеграционные тесты                           | + PostgreSQL, Alembic, pytest/httpx |
+| [DNF_V4](https://github.com/Osnowa/DNF_V4.git)                                   | Регистрация/логин, JWT, роли (RBAC), покрытие тестами 93%                       | + JWT auth                          |
+| [DNF_V5](https://github.com/Osnowa/DNF_V5.git)                                   | Переход на MongoDB, полный CI/CD (GitHub Actions → GHCR → деплой на VPS по SSH) | + MongoDB, Beanie, Testcontainers   |
+| [DNF_V6](https://github.com/Osnowa/DNF_V6.git)                                   | Redis-кэширование (Cache-Aside, TTL, инвалидация)                               | + Redis                             |
 
 #### 🎮 Telegram-боты
 
-| Проект | Описание | Стек |
-|---|---|---|
+| Проект                                                       | Описание                                                                                   | Стек                                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
 | [Bot_roll_dice](https://github.com/Osnowa/Bot_roll_dice.git) | Кости против бота, лидерборд, слоистая архитектура (Handlers → Services → Repository → DB) | Aiogram 3, PostgreSQL, SQLAlchemy Async, Redis, Docker, GitHub Actions CI |
-| [Bot_QN](https://github.com/Osnowa/Bot_QN.git) | «Угадай число» — FSM, игровые сессии | Aiogram 3, PostgreSQL, Redis, Docker |
-| [Bot_RP](https://github.com/Osnowa/Bot_RP.git) | «Камень-ножницы-бумага» с суперсилой ONE PUNCH MAN, юнит-тесты | Aiogram 3, SQLite, pytest/mock |
+| [Bot_QN](https://github.com/Osnowa/Bot_QN.git)               | «Угадай число» — FSM, игровые сессии                                                       | Aiogram 3, PostgreSQL, Redis, Docker                                      |
+| [Bot_RP](https://github.com/Osnowa/Bot_RP.git)               | «Камень-ножницы-бумага» с суперсилой ONE PUNCH MAN, юнит-тесты                             | Aiogram 3, SQLite, pytest/mock                                            |
 
 ---
 
@@ -134,16 +147,17 @@ REST API (FastAPI) + Telegram-бот (Aiogram 3) как единое прило�
 
 Python · Асинхронное программирование · SQL · Тестирование ПО · Linux / Терминал · Docker · Git / GitHub · Веб-разработка (HTML/CSS) · Data Science (Pandas) · Go — первое знакомство
 
-**LeetCode** — *[профиль](https://leetcode.com/u/osnowa/)*
+**LeetCode** — _[профиль](https://leetcode.com/u/osnowa/)_
 <img src="./assets/leetcode_profil.png"/>
 
 ---
 
 ### 💼 Опыт работы
 
-*(будет добавлено)*
+_(будет добавлено)_
 
 ---
+
 <br>
 
 <a name="en"></a>
@@ -152,7 +166,7 @@ Python · Асинхронное программирование · SQL · Те
 
 **QA Engineer / Backend Developer**
 
-📍 Moscow (Rostov-on-Don) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: *@Osnowwa*
+📍 Moscow (Rostov-on-Don) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: _@Osnowwa_
 
 Growing in IT, in the field of testing (/backend), and at one point I also did system administration. My main focus is **testing**.
 
@@ -204,30 +218,43 @@ I'm a QA engineer aiming to grow into an **AQA engineer** (full-stack tester): I
 ### 🚀 Backend Projects
 
 #### 📋 Task Manager API + Telegram Bot — currently my most extensive project
+
 A REST API (FastAPI) and a Telegram bot (Aiogram 3) working together as one application — not a tutorial CRUD, but a real multi-service architecture.
 
 `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis (tokens + FSM)` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff`
 
 🔗 *https://github.com/Osnowa/FastApi_TB.git*
 
+#### 🧠 LLM_Notes — LLM & vector search experiments
+
+A pet project to get hands-on with LLMs "from the inside": embeddings and semantic search on top of an async vector database.
+
+`Python (async)` `ChromaDB (async client)` `Embeddings` `RAG`
+
+- Async connection to Chroma, creating and populating collections
+- Semantic (vector) search instead of keyword search
+- Basic RAG pipeline: retrieve context → augment the prompt → generate a response
+
+🔗 *https://github.com/Osnowa/LLM_Notes.git*
+
 #### 🔁 DNF series — iterative learning project
 
-| Version | What's new | Stack |
-|---|---|---|
-| [Docker_Nginx_FastAPI](https://github.com/Osnowa/Docker_Ngnix_FastAPI.git) | Base FastAPI + SQLite + Docker + Nginx reverse proxy | FastAPI, aiosqlite, Docker |
-| [Docker_Nginx_FastAPI_V2](https://github.com/Osnowa/Docker_Ngnix_FastAPI_V2.git) | + ORM, seed script | + SQLAlchemy |
-| [DNF_V3](https://github.com/Osnowa/DNF_V3.git) | CRUD, routers/schemas/repositories, integration tests | + PostgreSQL, Alembic, pytest/httpx |
-| [DNF_V4](https://github.com/Osnowa/DNF_V4.git) | Registration/login, JWT, roles (RBAC), 93% test coverage | + JWT auth |
-| [DNF_V5](https://github.com/Osnowa/DNF_V5.git) | Switched to MongoDB, full CI/CD (GitHub Actions → GHCR → SSH deploy to VPS) | + MongoDB, Beanie, Testcontainers |
-| [DNF_V6](https://github.com/Osnowa/DNF_V6.git) | Redis caching (Cache-Aside, TTL, invalidation) | + Redis |
+| Version                                                                          | What's new                                                                  | Stack                               |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------- |
+| [Docker_Nginx_FastAPI](https://github.com/Osnowa/Docker_Ngnix_FastAPI.git)       | Base FastAPI + SQLite + Docker + Nginx reverse proxy                        | FastAPI, aiosqlite, Docker          |
+| [Docker_Nginx_FastAPI_V2](https://github.com/Osnowa/Docker_Ngnix_FastAPI_V2.git) | + ORM, seed script                                                          | + SQLAlchemy                        |
+| [DNF_V3](https://github.com/Osnowa/DNF_V3.git)                                   | CRUD, routers/schemas/repositories, integration tests                       | + PostgreSQL, Alembic, pytest/httpx |
+| [DNF_V4](https://github.com/Osnowa/DNF_V4.git)                                   | Registration/login, JWT, roles (RBAC), 93% test coverage                    | + JWT auth                          |
+| [DNF_V5](https://github.com/Osnowa/DNF_V5.git)                                   | Switched to MongoDB, full CI/CD (GitHub Actions → GHCR → SSH deploy to VPS) | + MongoDB, Beanie, Testcontainers   |
+| [DNF_V6](https://github.com/Osnowa/DNF_V6.git)                                   | Redis caching (Cache-Aside, TTL, invalidation)                              | + Redis                             |
 
 #### 🎮 Telegram bots
 
-| Project | Description | Stack |
-|---|---|---|
-| [Bot_roll_dice](https://github.com/Osnowa/Bot_roll_dice.git) | Dice game vs bot, leaderboard, layered architecture | Aiogram 3, PostgreSQL, SQLAlchemy Async, Redis, Docker, GitHub Actions CI |
-| [Bot_QN](https://github.com/Osnowa/Bot_QN.git) | Number-guessing game — FSM, game sessions | Aiogram 3, PostgreSQL, Redis, Docker |
-| [Bot_RP](https://github.com/Osnowa/Bot_RP.git) | Rock-Paper-Scissors with a ONE PUNCH MAN superpower, unit-tested | Aiogram 3, SQLite, pytest/mock |
+| Project                                                      | Description                                                      | Stack                                                                     |
+| ------------------------------------------------------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [Bot_roll_dice](https://github.com/Osnowa/Bot_roll_dice.git) | Dice game vs bot, leaderboard, layered architecture              | Aiogram 3, PostgreSQL, SQLAlchemy Async, Redis, Docker, GitHub Actions CI |
+| [Bot_QN](https://github.com/Osnowa/Bot_QN.git)               | Number-guessing game — FSM, game sessions                        | Aiogram 3, PostgreSQL, Redis, Docker                                      |
+| [Bot_RP](https://github.com/Osnowa/Bot_RP.git)               | Rock-Paper-Scissors with a ONE PUNCH MAN superpower, unit-tested | Aiogram 3, SQLite, pytest/mock                                            |
 
 ---
 
@@ -237,13 +264,13 @@ A REST API (FastAPI) and a Telegram bot (Aiogram 3) working together as one appl
 
 Python · Async programming · SQL · Software Testing · Linux / Terminal · Docker · Git / GitHub · Web dev (HTML/CSS) · Data Science (Pandas) · Go — first steps
 
-**LeetCode** — *[profile](https://leetcode.com/u/osnowa/)*
+**LeetCode** — _[profile](https://leetcode.com/u/osnowa/)_
 <img src="./assets/leetcode_profil.png"/>
 
 ---
 
 ### 💼 Experience
 
-*(to be added)*
+_(to be added)_
 
 </div>
