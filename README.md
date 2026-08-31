@@ -102,10 +102,10 @@
 
 #### 🌟 Основные проекты
 
-| Проект                                                                      | Описание                                                                                                                                                          | Стек                                                                                                   |
-| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [Task Manager API + Telegram Bot](https://github.com/Osnowa/FastApi_TB.git) | "Задачиник": REST API (FastAPI) + Telegram-бот (Aiogram 3) (телеграм использует ручки FastApi): JWT-авторизация, Redis (токены + FSM), unit/integration-тесты, CI | `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff` |
-| [LLM_Notes](https://github.com/Osnowa/LLM_Notes.git)                        | Работа с промптингом: два LLM-провайдера (локальный + облачный) через `ABC`, векторный поиск по смыслу в Chroma                                                   | `Python (async)` `ChromaDB` `Ollama` `Mistral AI` `ABC` `RAG` `Docker`                                 |
+| Проект                                                                      | Описание                                                                                                                                                               | Стек                                                                                                   |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [Task Manager API + Telegram Bot](https://github.com/Osnowa/FastApi_TB.git) | Пока что самый насыщенный проект — REST API (FastAPI) и Telegram-бот (Aiogram 3) в одном приложении: JWT-авторизация, Redis (токены + FSM), unit/integration-тесты, CI | `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff` |
+| [LLM_Notes](https://github.com/Osnowa/LLM_Notes.git)                        | Эксперименты с промптингом: два LLM-провайдера (локальный + облачный) через `ABC`, векторный поиск по смыслу в Chroma                                                  | `Python (async)` `ChromaDB` `Ollama` `Mistral AI` `ABC` `RAG` `Docker`                                 |
 
 #### 🔁 DNF — серия учебных проектов (прогресс от версии к версии)
 
@@ -141,7 +141,24 @@ Python · Асинхронное программирование · SQL · Те
 
 ### 💼 Опыт работы
 
-_(будет добавлено)_
+**Альфа-Банк** — выездной специалист · 2025–2026 (7 месяцев)
+Настройка банковских продуктов и оборудования на стороне клиента, подключение и консультирование по дополнительным услугам, работа с клиентами на выезде.
+
+**Перерыв по личным обстоятельствам** · 2024–2025
+
+**Ассистент курса на Stepik / pet-проекты** · 2023–2024
+Помогал с ведением курса на Stepik, параллельно разрабатывал собственные учебные backend-проекты (серия DNF).
+
+**ИП «ГИФ»** — backend-разработка / тестирование · 2021–2023
+Backend-разработка и тестирование, параллельно — профильные курсы на Stepik.
+
+**«Adoors»** (Москва) — системное администрирование · 2019–2021
+Настройка и поддержка CRM-системы, базовое обслуживание рабочих станций. С 2020 года — участие в переводе инфраструктуры компании в онлайн: помощь с Linux-серверами (порты, контейнеры, логи, права доступа, мониторинг нагрузки).
+
+**«Просто Двери»** (Москва) — ассистент ИП · 2018–2019
+Коммуникация с клиентами.
+
+<sub>Опыт 2018–2023 получен во время учёбы в вузе, без отрыва от занятий.</sub>
 
 ---
 
@@ -245,6 +262,23 @@ Python · Async programming · SQL · Software Testing · Linux / Terminal · Do
 
 ### 💼 Experience
 
-_(to be added)_
+**Alfa-Bank** — Field Specialist · 2025–2026 (7 months)
+On-site setup of banking products and equipment at client locations, connecting and advising on additional services, client-facing visits.
+
+**Career break (personal reasons)** · 2024–2025
+
+**Stepik course assistant / pet projects** · 2023–2024
+Assisted with running a course on Stepik, while building my own educational backend projects (the DNF series).
+
+**IE "GIF"** — Backend Development / Testing · 2021–2023
+Backend development and testing, alongside relevant Stepik courses.
+
+**"Adoors"** (Moscow) — System Administration · 2019–2021
+Set up and maintained a CRM system, basic workstation support. From 2020 — helped move the company's infrastructure online: Linux server support (ports, containers, logs, file permissions, load monitoring).
+
+**"Prosto Dveri"** (Moscow) — Assistant to a sole proprietor · 2018–2019
+Client communication.
+
+<sub>2018–2023 experience was gained while studying at university, alongside coursework.</sub>
 
 </div>
