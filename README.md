@@ -18,9 +18,9 @@
 
 📍 Москва (Ростов-на-Дону) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: _@Osnowwa_
 
-Развиваюсь в IT, в сфере тестирования (/backend), одно время занимался системным администрированием. Основное направление — **тестирование**.
+QA-инженер / backend-разработчик. Тестирую вручную и развиваю автоматизацию на pytest, параллельно пишу backend на FastAPI и Telegram-ботов, работаю с LLM и AI-агентами. Ранее занимался системным администрированием.
 
-Я QA-инженер и стремлюсь стать **AQA-инженером** (full-stack тестировщиком): тестирую вручную и параллельно развиваю pet-проекты по автоматизированному тестированию на pytest. Плюс пишу проекты на FastAPI, Telegram-bot, внедряю LLM и AI агентов.
+Дальнейший фокус — вырасти в **AQA-инженера** (full-stack тестировщика): совмещаю ручное тестирование с разработкой автотестов и pet-проектами.
 
 ---
 
@@ -102,10 +102,10 @@
 
 #### 🌟 Основные проекты
 
-| Проект                                                                      | Описание                                                                                                                                                               | Стек                                                                                                   |
-| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [Task Manager API + Telegram Bot](https://github.com/Osnowa/FastApi_TB.git) | Пока что самый насыщенный проект — REST API (FastAPI) и Telegram-бот (Aiogram 3) в одном приложении: JWT-авторизация, Redis (токены + FSM), unit/integration-тесты, CI | `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff` |
-| [LLM_Notes](https://github.com/Osnowa/LLM_Notes.git)                        | Эксперименты с промптингом: два LLM-провайдера (локальный + облачный) через `ABC`, векторный поиск по смыслу в Chroma                                                  | `Python (async)` `ChromaDB` `Ollama` `Mistral AI` `ABC` `RAG` `Docker`                                 |
+| Проект                                                                      | Описание                                                                                                                                                        | Стек                                                                                                   |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [Task Manager API + Telegram Bot](https://github.com/Osnowa/FastApi_TB.git) | «Задачник»: REST API (FastAPI) + Telegram-бот (Aiogram 3) — бот работает через ручки FastAPI: JWT-авторизация, Redis (токены + FSM), unit/integration-тесты, CI | `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff` |
+| [LLM_Notes](https://github.com/Osnowa/LLM_Notes.git)                        | Эксперименты с промптингом: два LLM-провайдера (локальный + облачный) через `ABC`, векторный поиск по смыслу в Chroma                                           | `Python (async)` `ChromaDB` `Ollama` `Mistral AI` `ABC` `RAG` `Docker`                                 |
 
 #### 🔁 DNF — серия учебных проектов (прогресс от версии к версии)
 
@@ -141,11 +141,6 @@ Python · Асинхронное программирование · SQL · Те
 
 ### 💼 Опыт работы
 
-**Альфа-Банк** — выездной специалист · 2025–2026 (7 месяцев)
-Настройка банковских продуктов и оборудования на стороне клиента, подключение и консультирование по дополнительным услугам, работа с клиентами на выезде.
-
-**Перерыв по личным обстоятельствам** · 2024–2025
-
 **Ассистент курса на Stepik / pet-проекты** · 2023–2024
 Помогал с ведением курса на Stepik, параллельно разрабатывал собственные учебные backend-проекты (серия DNF).
 
@@ -158,7 +153,7 @@ Backend-разработка и тестирование, параллельно
 **«Просто Двери»** (Москва) — ассистент ИП · 2018–2019
 Коммуникация с клиентами.
 
-<sub>Опыт 2018–2023 получен во время учёбы в вузе, без отрыва от занятий.</sub>
+<sub>Опыт 2019–2023 под наставничеством IT - специалиста. <br>Высшее техническое образование · 2018–2022. <br>Второе высшее + повышение квалификации «Автоматизация процессов с Python» · 2022–2024 </sub>
 
 ---
 
@@ -172,9 +167,9 @@ Backend-разработка и тестирование, параллельно
 
 📍 Moscow (Rostov-on-Don) &nbsp;•&nbsp; ✉️ ilja.savin18@yandex.ru &nbsp;•&nbsp; 💬 Telegram: _@Osnowwa_
 
-Growing in IT, in the field of testing (/backend), and at one point I also did system administration. My main focus is **testing**.
+QA Engineer / Backend Developer. I test manually and build automation with pytest, while also building backends with FastAPI, Telegram bots, and working with LLMs and AI agents. Previously worked in system administration.
 
-I'm a QA engineer aiming to grow into an **AQA engineer** (full-stack tester): I test manually and, in parallel, build pet projects around test automation with pytest. I also build projects with FastAPI, Telegram bots, and work on integrating LLMs and AI agents.
+Next focus — growing into an **AQA Engineer** (full-stack tester): combining manual testing with test automation and pet projects.
 
 ---
 
@@ -223,10 +218,10 @@ I'm a QA engineer aiming to grow into an **AQA engineer** (full-stack tester): I
 
 #### 🌟 Main Projects
 
-| Project                                                                     | Description                                                                                                                                                      | Stack                                                                                                  |
-| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [Task Manager API + Telegram Bot](https://github.com/Osnowa/FastApi_TB.git) | Currently my most extensive project — a REST API (FastAPI) and a Telegram bot (Aiogram 3) in one app: JWT auth, Redis (tokens + FSM), unit/integration tests, CI | `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff` |
-| [LLM_Notes](https://github.com/Osnowa/LLM_Notes.git)                        | Prompting experiments: two LLM providers (local + cloud) behind `ABC`, vector (semantic) search in Chroma                                                        | `Python (async)` `ChromaDB` `Ollama` `Mistral AI` `ABC` `RAG` `Docker`                                 |
+| Project                                                                     | Description                                                                                                                                                        | Stack                                                                                                  |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| [Task Manager API + Telegram Bot](https://github.com/Osnowa/FastApi_TB.git) | "Task Tracker": REST API (FastAPI) + Telegram bot (Aiogram 3) — the bot talks to the FastAPI endpoints: JWT auth, Redis (tokens + FSM), unit/integration tests, CI | `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff` |
+| [LLM_Notes](https://github.com/Osnowa/LLM_Notes.git)                        | Prompting experiments: two LLM providers (local + cloud) behind `ABC`, vector (semantic) search in Chroma                                                          | `Python (async)` `ChromaDB` `Ollama` `Mistral AI` `ABC` `RAG` `Docker`                                 |
 
 #### 🔁 DNF series — iterative learning project
 
@@ -262,11 +257,6 @@ Python · Async programming · SQL · Software Testing · Linux / Terminal · Do
 
 ### 💼 Experience
 
-**Alfa-Bank** — Field Specialist · 2025–2026 (7 months)
-On-site setup of banking products and equipment at client locations, connecting and advising on additional services, client-facing visits.
-
-**Career break (personal reasons)** · 2024–2025
-
 **Stepik course assistant / pet projects** · 2023–2024
 Assisted with running a course on Stepik, while building my own educational backend projects (the DNF series).
 
@@ -278,6 +268,11 @@ Set up and maintained a CRM system, basic workstation support. From 2020 — hel
 
 **"Prosto Dveri"** (Moscow) — Assistant to a sole proprietor · 2018–2019
 Client communication.
+
+### 🎓 Education
+
+- Higher technical education · 2018–2022
+- Second degree + professional development course "Process Automation with Python" · 2022–2024
 
 <sub>2018–2023 experience was gained while studying at university, alongside coursework.</sub>
 
