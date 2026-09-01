@@ -105,13 +105,13 @@ QA-инженер / backend-разработчик. Тестирую вручн�
 | Проект                                                                      | Описание                                                                                                                                                        | Стек                                                                                                   |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | [Task Manager API + Telegram Bot](https://github.com/Osnowa/FastApi_TB.git) | «Задачник»: REST API (FastAPI) + Telegram-бот (Aiogram 3) — бот работает через ручки FastAPI: JWT-авторизация, Redis (токены + FSM), unit/integration-тесты, CI | `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff` |
-| [LLM_Notes](https://github.com/Osnowa/LLM_Notes.git)                        | Эксперименты с промптингом: два LLM-провайдера (локальный + облачный) через `ABC`, векторный поиск по смыслу в Chroma                                           | `Python (async)` `ChromaDB` `Ollama` `Mistral AI` `ABC` `RAG` `Docker`                                 |
+| [LLM_Notes](https://github.com/Osnowa/LLM_Notes.git)                        | Работа с промптингом: два LLM-провайдера (локальный + облачный) через `ABC`, векторный поиск по смыслу в Chroma                                                 | `Python (async)` `ChromaDB` `Ollama` `Mistral AI` `ABC` `RAG` `Docker`                                 |
 
 #### 🔁 DNF — серия учебных проектов (прогресс от версии к версии)
 
 | Версия                                                                           | Что добавлено                                                                   | Стек                                |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------- |
-| [Docker_Nginx_FastAPI](https://github.com/Osnowa/Docker_Ngnix_FastAPI.git)       | Базовый FastAPI + SQLite + Docker + Nginx (reverse proxy)                       | FastAPI, aiosqlite, Docker          |
+| [Docker_Nginx_FastAPI](https://github.com/Osnowa/Docker_Ngnix_FastAPI.git)       | FastAPI + SQLite + Docker + Nginx (reverse proxy)                               | FastAPI, aiosqlite, Docker          |
 | [Docker_Nginx_FastAPI_V2](https://github.com/Osnowa/Docker_Ngnix_FastAPI_V2.git) | + ORM, скрипт наполнения БД                                                     | + SQLAlchemy                        |
 | [DNF_V3](https://github.com/Osnowa/DNF_V3.git)                                   | CRUD, роутеры/схемы/репозитории, интеграционные тесты                           | + PostgreSQL, Alembic, pytest/httpx |
 | [DNF_V4](https://github.com/Osnowa/DNF_V4.git)                                   | Регистрация/логин, JWT, роли (RBAC), покрытие тестами 93%                       | + JWT auth                          |
@@ -147,13 +147,13 @@ Python · Асинхронное программирование · SQL · Те
 **ИП «ГИФ»** — backend-разработка / тестирование · 2021–2023
 Backend-разработка и тестирование, параллельно — профильные курсы на Stepik.
 
-**«Adoors»** (Москва) — системное администрирование · 2019–2021
+**«Adoors»** (Москва) — системное администрирование (стажер) · 2019–2021
 Настройка и поддержка CRM-системы, базовое обслуживание рабочих станций. С 2020 года — участие в переводе инфраструктуры компании в онлайн: помощь с Linux-серверами (порты, контейнеры, логи, права доступа, мониторинг нагрузки).
 
 **«Просто Двери»** (Москва) — ассистент ИП · 2018–2019
 Коммуникация с клиентами.
 
-<sub>Опыт 2019–2023 под наставничеством IT - специалиста. <br>Высшее техническое образование · 2018–2022. <br>Второе высшее + повышение квалификации «Автоматизация процессов с Python» · 2022–2024 </sub>
+<sub>Опыт 2019–2023 под наставничеством IT-специалиста. <br>Высшее техническое образование · 2018–2022. <br>Второе высшее + повышение квалификации «Автоматизация процессов с Python» · 2022–2024</sub>
 
 ---
 
@@ -221,13 +221,13 @@ Next focus — growing into an **AQA Engineer** (full-stack tester): combining m
 | Project                                                                     | Description                                                                                                                                                        | Stack                                                                                                  |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
 | [Task Manager API + Telegram Bot](https://github.com/Osnowa/FastApi_TB.git) | "Task Tracker": REST API (FastAPI) + Telegram bot (Aiogram 3) — the bot talks to the FastAPI endpoints: JWT auth, Redis (tokens + FSM), unit/integration tests, CI | `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff` |
-| [LLM_Notes](https://github.com/Osnowa/LLM_Notes.git)                        | Prompting experiments: two LLM providers (local + cloud) behind `ABC`, vector (semantic) search in Chroma                                                          | `Python (async)` `ChromaDB` `Ollama` `Mistral AI` `ABC` `RAG` `Docker`                                 |
+| [LLM_Notes](https://github.com/Osnowa/LLM_Notes.git)                        | Prompting work: two LLM providers (local + cloud) behind `ABC`, vector (semantic) search in Chroma                                                                 | `Python (async)` `ChromaDB` `Ollama` `Mistral AI` `ABC` `RAG` `Docker`                                 |
 
 #### 🔁 DNF series — iterative learning project
 
 | Version                                                                          | What's new                                                                  | Stack                               |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------- |
-| [Docker_Nginx_FastAPI](https://github.com/Osnowa/Docker_Ngnix_FastAPI.git)       | Base FastAPI + SQLite + Docker + Nginx reverse proxy                        | FastAPI, aiosqlite, Docker          |
+| [Docker_Nginx_FastAPI](https://github.com/Osnowa/Docker_Ngnix_FastAPI.git)       | FastAPI + SQLite + Docker + Nginx reverse proxy                             | FastAPI, aiosqlite, Docker          |
 | [Docker_Nginx_FastAPI_V2](https://github.com/Osnowa/Docker_Ngnix_FastAPI_V2.git) | + ORM, seed script                                                          | + SQLAlchemy                        |
 | [DNF_V3](https://github.com/Osnowa/DNF_V3.git)                                   | CRUD, routers/schemas/repositories, integration tests                       | + PostgreSQL, Alembic, pytest/httpx |
 | [DNF_V4](https://github.com/Osnowa/DNF_V4.git)                                   | Registration/login, JWT, roles (RBAC), 93% test coverage                    | + JWT auth                          |
@@ -263,17 +263,12 @@ Assisted with running a course on Stepik, while building my own educational back
 **IE "GIF"** — Backend Development / Testing · 2021–2023
 Backend development and testing, alongside relevant Stepik courses.
 
-**"Adoors"** (Moscow) — System Administration · 2019–2021
+**"Adoors"** (Moscow) — System Administration (intern) · 2019–2021
 Set up and maintained a CRM system, basic workstation support. From 2020 — helped move the company's infrastructure online: Linux server support (ports, containers, logs, file permissions, load monitoring).
 
 **"Prosto Dveri"** (Moscow) — Assistant to a sole proprietor · 2018–2019
 Client communication.
 
-### 🎓 Education
-
-- Higher technical education · 2018–2022
-- Second degree + professional development course "Process Automation with Python" · 2022–2024
-
-<sub>2018–2023 experience was gained while studying at university, alongside coursework.</sub>
+<sub>2019–2023 experience gained under the mentorship of an IT specialist. <br>Higher technical education · 2018–2022. <br>Second degree + professional development course "Process Automation with Python" · 2022–2024</sub>
 
 </div>
