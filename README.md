@@ -107,7 +107,7 @@ QA-инженер / backend-разработчик. Тестирую вручн�
 | [Task Manager API + Telegram Bot](https://github.com/Osnowa/FastApi_TB.git) | «Задачник»: REST API (FastAPI) + Telegram-бот (Aiogram 3) — бот работает через ручки FastAPI: JWT-авторизация, Redis (токены + FSM), unit/integration-тесты, CI | `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff` |
 | [LLM_Notes](https://github.com/Osnowa/LLM_Notes.git)                        | Работа с промптингом: два LLM-провайдера (локальный + облачный) через `ABC`, векторный поиск по смыслу в Chroma                                                 | `Python (async)` `ChromaDB` `Ollama` `Mistral AI` `ABC` `RAG` `Docker`                                 |
 
-#### 🔁 DNF — серия учебных проектов (прогресс от версии к версии)
+#### 🔁 DNF — серия учебных проектов (для обучения учеников, прогресс от версии к версии)
 
 | Версия                                                                           | Что добавлено                                                                   | Стек                                |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------- |
@@ -142,7 +142,7 @@ Python · Асинхронное программирование · SQL · Те
 ### 💼 Опыт работы
 
 **Ассистент курса на Stepik / pet-проекты** · 2023–2024
-Помогал с ведением курса на Stepik, параллельно разрабатывал собственные учебные backend-проекты (серия DNF).
+Помогал с ведением курса на Stepik (тестирование), параллельно разрабатывал собственные учебные backend-проекты, в том числе для учеников курса (серия DNF).
 
 **ИП «ГИФ»** — backend-разработка / тестирование · 2021–2023
 Backend-разработка и тестирование, параллельно — профильные курсы на Stepik.
@@ -223,7 +223,7 @@ Next focus — growing into an **AQA Engineer** (full-stack tester): combining m
 | [Task Manager API + Telegram Bot](https://github.com/Osnowa/FastApi_TB.git) | "Task Tracker": REST API (FastAPI) + Telegram bot (Aiogram 3) — the bot talks to the FastAPI endpoints: JWT auth, Redis (tokens + FSM), unit/integration tests, CI | `FastAPI` `SQLAlchemy` `Alembic` `JWT` `Redis` `Docker Compose` `pytest/httpx` `GitHub Actions` `Ruff` |
 | [LLM_Notes](https://github.com/Osnowa/LLM_Notes.git)                        | Prompting work: two LLM providers (local + cloud) behind `ABC`, vector (semantic) search in Chroma                                                                 | `Python (async)` `ChromaDB` `Ollama` `Mistral AI` `ABC` `RAG` `Docker`                                 |
 
-#### 🔁 DNF series — iterative learning project
+#### 🔁 DNF series — iterative learning project (used for teaching students)
 
 | Version                                                                          | What's new                                                                  | Stack                               |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------- |
@@ -258,7 +258,7 @@ Python · Async programming · SQL · Software Testing · Linux / Terminal · Do
 ### 💼 Experience
 
 **Stepik course assistant / pet projects** · 2023–2024
-Assisted with running a course on Stepik, while building my own educational backend projects (the DNF series).
+Assisted with running a testing course on Stepik, while building my own educational backend projects, including for the course's students (the DNF series).
 
 **IE "GIF"** — Backend Development / Testing · 2021–2023
 Backend development and testing, alongside relevant Stepik courses.
